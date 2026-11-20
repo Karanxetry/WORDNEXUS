@@ -6,4 +6,4 @@ An LSTM-powered next-word prediction application built using Python, TensorFlow,
 ## Prediction Examples
 
 ### Example 1
-![Prediction](screenshots/prediction1.png)
+![Prediction](screenshots/Word Predictor.png)
